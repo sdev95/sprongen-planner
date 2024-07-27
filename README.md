@@ -4,6 +4,9 @@ Dit project stelt je in staat om een .ics-bestand te genereren met alle ontwikke
 *Wat is een .ics bestand?*
 Een .ics-bestand is een bestandsformaat dat wordt gebruikt voor het opslaan en uitwisselen van kalendergegevens. Het staat voor iCalendar-bestand en bevat informatie over gebeurtenissen, afspraken, taken en herinneringen. Met een .ics-bestand kun je kalendergegevens importeren en exporteren naar verschillende kalenderapplicaties.
 
+Te gebruiken op:
+https://sdev95.github.io/sprongen-planner/
+
 ## Hoe kan ik .ics Importeren
 
 ###  Outlook
