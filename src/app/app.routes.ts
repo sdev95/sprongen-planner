@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
-import { BerekenenComponent } from './components/berekenen/berekenen.component';
+import { GenererenComponent } from './genereren/genereren.component';
 
 export const routes: Routes = [
-    { path: '**', component: BerekenenComponent }
+    { path: '**', component: GenererenComponent }
 ];
