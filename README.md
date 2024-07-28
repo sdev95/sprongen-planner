@@ -1,27 +1,51 @@
-# SprongenFrontend
+# De Tien Sprongen
+Dit project stelt je in staat om een .ics-bestand te genereren met alle ontwikkelingssprongen van jouw baby. Doordat je de uitgerekende datum en niet de geboortedatum invult vallen de sprongetjes bij elke baby rond dezelfde periode in hun ontwikkeling. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+*Wat is een .ics bestand?*
+Een .ics-bestand is een bestandsformaat dat wordt gebruikt voor het opslaan en uitwisselen van kalendergegevens. Het staat voor iCalendar-bestand en bevat informatie over gebeurtenissen, afspraken, taken en herinneringen. Met een .ics-bestand kun je kalendergegevens importeren en exporteren naar verschillende kalenderapplicaties.
 
-## Development server
+## Hoe kan ik .ics Importeren
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+###  Outlook
+Om een .ics-bestand in Outlook te importeren, volg je deze stappen:
 
-## Code scaffolding
+1. Open Outlook en ga naar de kalenderweergave.
+2. Klik op het tabblad "Bestand" linksboven.
+3. Selecteer "Openen en exporteren" in het menu.
+4. Kies "Importeren/Exporteren" uit de opties.
+5. In de Importeer- en exporteerwizard selecteer je "Een iCalendar (.ics) of vCalendar-bestand (.vcs) importeren" en klik je op "Volgende".
+6. Blader naar de locatie waar je .ics-bestand is opgeslagen en selecteer het.
+7. Kies de kalender waar je de gebeurtenissen wilt importeren en klik op "Volgende".
+8. Controleer de importopties en maak indien nodig aanpassingen.
+9. Klik op "Voltooien" om het importproces te voltooien.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Zodra de import is voltooid, worden de gebeurtenissen uit het .ics-bestand toegevoegd aan je Outlook-kalender.
 
-## Build
+### Gmail
+Om een .ics-bestand in Gmail te importeren, volg je deze stappen:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Log in op je Gmail-account en ga naar je Google Agenda.
+2. Klik op het tandwielpictogram rechtsboven en selecteer "Instellingen" in het dropdownmenu.
+3. Ga naar het tabblad "Agenda's".
+4. Scroll naar beneden naar de sectie "Agenda importeren" en klik op "Agenda importeren".
+5. Klik op de knop "Bestand kiezen" en blader naar de locatie waar je .ics-bestand is opgeslagen. Selecteer het bestand.
+6. Klik op de knop "Agenda importeren" om het .ics-bestand te importeren.
+7. Je kunt nu de naam en kleur van de geïmporteerde agenda aanpassen als je dat wilt.
+8. Klik op "Opslaan" om de import te voltooien.
 
-## Running unit tests
+Zodra de import is voltooid, worden de gebeurtenissen uit het .ics-bestand toegevoegd aan je Gmail-agenda.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+
+
+
+
+
+
+
