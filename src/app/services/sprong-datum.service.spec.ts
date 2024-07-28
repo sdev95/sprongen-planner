@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { DatumService } from './datum.service';
+import { SprongDatumService } from './sprong-datum.service';
 
-describe('DatumService', () => {
-  let service: DatumService;
+describe('SprongDatumService', () => {
+  let service: SprongDatumService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(DatumService);
+    service = TestBed.inject(SprongDatumService);
   });
 
   it('should be created', () => {
